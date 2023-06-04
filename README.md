@@ -1,5 +1,1 @@
-Capstone Project
-IBDM Dataset
-
-This capstone is divided into a 4-phase duration. In this document, the entire details of the 4-phase(weekly) duration are given.
-
+Capstone ProjectDS0622
